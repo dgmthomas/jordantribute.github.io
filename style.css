@@ -1,0 +1,46 @@
+/* CSS Style sheet for "airjordantribute.html" 
+   as part of the tribute page project */
+#main{
+	border-radius: 3%;
+	background-color: #F0F0F0;
+	font-family: calibri;
+}
+
+h1,h2{
+	text-align: center;
+}
+
+#img-div{
+	background-color: #D3D3D3;
+	border: solid white .5px;
+	margin: auto;
+}
+
+#img-caption{
+	font-size: 17px;
+	text-align: center;
+}
+
+#image{
+	border-radius: 5%;
+	width: auto;
+	height: auto;
+	margin: auto;
+	display: block;
+	padding-top: 15px;
+}
+
+#tribute-info{
+	
+	width: 600px;
+	margin: auto;
+	padding-bottom: 30px;
+}
+
+li{
+	padding-bottom:10px;
+}
+#tribute-link{
+	text-decoration: none;
+	color: blue;
+}
