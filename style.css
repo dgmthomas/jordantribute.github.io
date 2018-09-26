@@ -23,8 +23,9 @@ h1,h2{
 
 #image{
 	border-radius: 5%;
-	width: auto;
-	height: auto;
+	width: 80%; /* Image width always 80% of the div element */
+	height: auto; /* Scales with width */
+	max-width: 80%; /* Width of image never exceeds 80% of div */
 	margin: auto;
 	display: block;
 	padding-top: 15px;
